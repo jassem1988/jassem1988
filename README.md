@@ -13,7 +13,7 @@ My journey began with a deep love for computers and programming, which led me to
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis (coming soon)          | <a href="https://google.com">Detection Lab</a>|
-| Network Hacking and gaining access | <a href="https://github.com/jassem1988/Network-Hacking-WEP/tree/main">Network Hacking</a>|
+| Network Hacking and gaining access | <a href="https://github.com/jassem1988/Network-Hacking-WEP/tree/main">Network Hacking WEP</a>|
 
 ## Tools
 
@@ -47,5 +47,5 @@ In Progress
 
 
 ## Projects
-- <a href="https://github.com/jassem1988/Network-Hacking-WEP/tree/main">Network Hacking</a>
+- <a href="https://github.com/jassem1988/Network-Hacking-WEP/tree/main">Network Hacking WEP</a>
 - 
