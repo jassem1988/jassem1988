@@ -23,12 +23,12 @@ My journey began with a deep love for computers and programming, which led me to
     <img src="https://img.shields.io/badge/VM_on_Mac-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </div>
 
-### Cloud soon
+### Cloud Coming soon
 <div>
     <img src="https://img.shields.io/badge/-Amazon_AWS-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
 </div>
 
-### SIEM Soon
+### SIEM Coming Soon
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
@@ -36,7 +36,14 @@ My journey began with a deep love for computers and programming, which led me to
 </div>
 
 ## Certifications
-Soon
+In Progress
+<div>
+    <img src="https://img.shields.io/badge/-CompTIA_Security+-E01F3D?&style=for-the-badge&logo=comptia&logoColor=white" />
+</div>
+ 
+
+
+
 
 
 ## Projects
