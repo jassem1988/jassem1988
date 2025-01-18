@@ -12,7 +12,7 @@ My journey began with a deep love for computers and programming, which led me to
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Network Hacking and gaining access | <a href="https://github.com/jassem1988/Network-Hacking-WEP/tree/main">Network Hacking WEP</a>|
+| Network Hacking and gaining access | <a href="https://github.com/jassem1988/Network-Hacking-wifi/tree/main">Network Hacking Wifi</a>|
 
 ## Tools
 
@@ -46,5 +46,5 @@ In Progress
 
 
 ## Projects
-- <a href="https://github.com/jassem1988/Network-Hacking-WEP/tree/main">Network Hacking WEP</a>
+- <a href="https://github.com/jassem1988/Network-Hacking-WEP/tree/main">Network Hacking Wifi</a>
 - 
