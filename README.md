@@ -12,7 +12,7 @@ My journey began with a deep love for computers and programming, which led me to
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Wireless Network Penetration Testing | <a href="https://github.com/jassem1988/Wireless-Network-Penetration-Testing/blob/main/README.md">Network Hacking Wifi</a>|
+| Wifi Network Pen Testing | <a href="https://github.com/jassem1988/Wireless-Network-Penetration-Testing/blob/main/README.md">Wireless Network Penetration Testing</a>|
 | Post Network Hacking | <a href="https://github.com/jassem1988/Post-Network-hacking/blob/main">Post Network Hacking</a>|
 | AWS Setup | <a href="https://github.com/jassem1988/AWS-set-up">AWS Setup</a>|
 
@@ -48,7 +48,7 @@ In Progress
 
 
 ## Projects
-- <a href="https://github.com/jassem1988/Wireless-Network-Penetration-Testing/blob/main/README.md">Network Hacking Wifi</a>
+- <a href="https://github.com/jassem1988/Wireless-Network-Penetration-Testing/blob/main/README.md">Wireless Network Penetration Testing</a>
 - <a href="https://github.com/jassem1988/Post-Network-hacking/blob/main">Post Network Hacking</a>
 - <a href="https://github.com/jassem1988/AWS-set-up">AWS Setup</a>
 
