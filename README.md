@@ -15,6 +15,7 @@ My journey began with a deep love for computers and programming, which led me to
 | Wifi Network Pen Testing | <a href="https://github.com/jassem1988/Wireless-Network-Penetration-Testing/blob/main/README.md">Wireless Network Penetration Testing</a>|
 | Information gathering for pen test | <a href="https://github.com/jassem1988/Wireless-Network-Security-Analysis">Wireless Network Security Analysis</a>|
 | AWS Setup | <a href="https://github.com/jassem1988/AWS-set-up">AWS Setup</a>|
+| Client Side Protection | <a href="https://github.com/jassem1988/client-side-protection">Client Side Protection</a>|
 
 ## Tools
 
@@ -51,4 +52,5 @@ In Progress
 - <a href="https://github.com/jassem1988/Wireless-Network-Penetration-Testing/blob/main/README.md">Wireless Network Penetration Testing</a>
 - <a href="https://github.com/jassem1988/Wireless-Network-Security-Analysis">Wireless Network Security Analysis</a>
 - <a href="https://github.com/jassem1988/AWS-set-up">AWS Setup</a>
+- <a href="https://github.com/jassem1988/client-side-protection">Client Side Protection</a>
 
