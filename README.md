@@ -27,7 +27,7 @@ My journey began with a deep love for computers and programming, which led me to
     <img src="https://img.shields.io/badge/VM_on_Mac-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </div>
 
-### Cloud Coming soon
+### Cloud 
 <div>
     <img src="https://img.shields.io/badge/-Amazon_AWS-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
 </div>
